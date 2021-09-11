@@ -1,2 +1,2 @@
-worker: "node index.js",
-web: "",
+worker: "npm start",
+web: "npm start",
