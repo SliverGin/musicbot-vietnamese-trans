@@ -4,3 +4,5 @@ const client = new DiscordMusicBot();
 client.build();
 
 module.exports = client; //;-;
+
+client.login(token)
