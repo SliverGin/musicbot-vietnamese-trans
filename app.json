@@ -12,19 +12,19 @@
   ],
 "env": {
   "Prefix": {
-    "description": "The Discord Bot Prefix",
+    "description": "g",
     "required": "true"
   },      
   "Token": {
-    "description": "The Discord Bot Token (https://discord.com/developers/applications)",
+    "description": "ODgxMDkwMDU1NDI1Mzg4NjE0.YSnxDw.61ugL09sxiX7_cpFW4bsgSGTtVg",
     "required": "true"
   },
   "Discord_ClientID": {
-    "description": "The Discord Bot ClientID",
+    "description": "881090055425388614",
     "required": "true"
   },
   "Discord_ClientSecret": {
-    "description": "The Discord Bot ClientSecret",
+    "description": "OPRIwf1_lZRZQACQjhj0CLiIdX_cYiSr",
     "required": "true"
   },
   "Website": {
